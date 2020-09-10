@@ -1,4 +1,5 @@
 #BlessingScript
+
 BlessingScript is a prayer request application that allows users to submit requests, or pray for existing requests, as well as allowing site administrators to manage prayer requests. All requests can be moderated from the admin section and can be flagged by members as inappropriate requests. There is a IP ban system in place as well to discourage improper usage.
 Every time a request is prayed for, and the user clicks the ‚ÄúI Prayed For You‚Äù button.
 
@@ -59,10 +60,12 @@ Every time a request is prayed for, and the user clicks the ‚ÄúI Prayed For You‚
 	Listing falgged Request , which is abused by user from user side
 	
 	Red Button: For Remove rquest 
-		If Admin realise that Requester is wrong than click Red button for Remove Request .After clicking that button Remove that request from active request List.
+		If Admin realise that Requester is wrong than click Red button for Remove Request.
+		After clicking that button Remove that request from active request List.
 
 	Sky blue button: For Clear Flag 
-		If Admin realise that Requester is not wrong than click Sky blue button for clear flag  .After clicking that button only clear flag report.
+		If Admin realise that Requester is not wrong than click Sky blue button for clear flag.
+		After clicking that button only clear flag report.
 	
 	Green button: For Banned Requester
 		If Admin realise that Requester is wrong and also admin want to banned requester, click that button and banned that requestor.
@@ -86,7 +89,8 @@ Every time a request is prayed for, and the user clicks the ‚ÄúI Prayed For You‚
 
 	Display banned Report list which is banned Ip  by admin from Active request List and flagged request List section.
 	Red Button : use for unbanned request.
-		From that admin can unbanned Ip .After clicking that button , user can add new request with this unbanned Ip and also use all functionality from user side.
+		From that admin can unbanned Ip .After clicking that button , 
+		user can add new request with this unbanned Ip and also use all functionality from user side.
 
 ##Change credentials:
 
@@ -104,9 +108,5 @@ Every time a request is prayed for, and the user clicks the ‚ÄúI Prayed For You‚
 			Active and deactive button: chage the status like active and deactive .
 
 ##Logout page:
-<<<<<<< HEAD
 
 	For closing your session.
-=======
-For closing your session.
->>>>>>> 60fc3905ce7704aab5797683978beeff348a55dc
